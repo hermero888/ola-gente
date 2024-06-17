@@ -55,7 +55,7 @@ body {
   text-transform: uppercase;
 }
 .stands__text:before, .stands__text:after {
-  content: "Do the wave";
+  content: "Actividades";
   position: absolute;
 }
 .stands__text:before {
