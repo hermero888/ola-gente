@@ -48,7 +48,7 @@ body {
   top: 1rem;
   left: 1.6rem;
   width: 30rem;
-  color: #80c0a1;
+  color: #49aff3;
   font-size: 3rem;
   font-weight: 700;
   font-style: italic;
@@ -60,7 +60,7 @@ body {
 }
 .stands__text:before {
   left: -0.3rem;
-  color: #419197;
+  color: #70e4ec;
 }
 .stands__text:after {
   left: -0.6rem;
@@ -80,7 +80,7 @@ body {
   left: -50%;
   width: 200%;
   height: 20rem;
-  background: linear-gradient(#FFF -200%, #78D6C6);
+  background: linear-gradient(#FFF -200%, #66b3e6);
 }
 .stands__items-wrapper:after {
   content: "";
@@ -89,7 +89,7 @@ body {
   left: -50%;
   width: 200%;
   height: 20rem;
-  background: linear-gradient(#000038 -200%, #80c0a1);
+  background: linear-gradient(#000038 -200%, #88a2eb);
 }
 .stands__item {
   position: relative;
@@ -106,7 +106,7 @@ body {
   left: 0;
   width: 100%;
   height: 5rem;
-  background: linear-gradient(#78D6C6, #919ea3);
+  background: linear-gradient(#2288db, #919ea3);
 }
 .stands__item:hover .stands__character, .stands__item:has(+ li:is(:hover, :focus-within)) .stands__character, .stands__item:is(:hover, :focus-within) + li .stands__character, .stands__item:has(+ li + li + li + li + li + li + li + li + li + li + li + li + li + li + li + li + li + li + li + li:is(:hover, :focus-within)) .stands__character, .stands__item:is(:hover, :focus-within) + li + li + li + li + li + li + li + li + li + li + li + li + li + li + li + li + li + li + li + li .stands__character {
   top: -40%;
